@@ -32,12 +32,12 @@ function main() {
   
     const scene = new THREE.Scene();
   
-    {
-      const color = 0xff8000;
-      const intensity = 1;
-      const light = new THREE.PointLight(color, intensity);
-      scene.add(light);
-    }
+    // {
+    //   const color = 0xff8000;
+    //   const intensity = 1;
+    //   const light = new THREE.PointLight(color, intensity);
+    //   scene.add(light);
+    // }
   
     // an array of objects who's rotation to update
     const objects = [];
