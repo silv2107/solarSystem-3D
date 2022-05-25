@@ -8,7 +8,7 @@
     "start": "webpack serve --config ./bundler/webpack.dev.js"
   },
   "homepage":"https://silv2107.github.io/solarSystem-3D",
-  "name": "solarSystem"
+  "name": "solar",
   "dependencies": {
     "@babel/core": "^7.13.1",
     "@babel/preset-env": "^7.13.5",
